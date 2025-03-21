@@ -4,7 +4,7 @@ const props = defineProps({
 })
 </script>
 <template>
-  <p class="fileName"><a :href="`https://github.com/tdd/dotjs-esproxies/blob/main/snippets/${path}`">{{path}}</a></p>
+  <p class="fileName"><a :href="`https://github.com/tdd/dotjs-esproxies/blob/main/snippets/${path}`" target="_blank" rel="noopener noreferrer">{{path}}</a></p>
 </template>
 
 <style scoped>

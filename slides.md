@@ -64,6 +64,6 @@ Christophe: [`@porteneuve@piaille.fr`](https://piaille.fr/@porteneuve) / [Linked
 <div class="mt-8 text-sm" style="opacity: 0.5">
 
 Photo credits:
-Cloudy sky par <a href="https://unsplash.com/@mosiknife?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">mosi knife</a>, Confusion by <a href="https://unsplash.com/@armedshutter?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ayo Ogunsende</a> and toys by <a href="https://unsplash.com/fr/@chrishardyphotography?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Chris Hardy</a>, all sources from <a href="https://unsplash.com/fr/s/photos/react?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.
+Cloudy sky by <a href="https://unsplash.com/@mosiknife?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">mosi knife</a>, Confusion by <a href="https://unsplash.com/@armedshutter?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ayo Ogunsende</a> and toys by <a href="https://unsplash.com/fr/@chrishardyphotography?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Chris Hardy</a>, all sources from <a href="https://unsplash.com/fr/s/photos/react?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.
 
 </div>
