@@ -3,7 +3,7 @@ theme: ./theme
 titleTemplate: "Clarke's Third Law in Action: Having Fun With ES proxies • A talk by Christophe Porteneuve at dotJS 2025"
 background: /covers/mosi-knife--PVgDgKXgZA-unsplash.jpg
 download: true
-exportFilename: ./dist/dotjs-2025-porteneuve-esproxies
+exportFilename: dotjs-2025-porteneuve-esproxies
 export:
   format: pdf
   dark: false
