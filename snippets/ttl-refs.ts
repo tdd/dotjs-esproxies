@@ -17,7 +17,7 @@ console.log = (...args) => {
   const stamp = `+${Date.now() - start}ms: `
   origLog.call(console, stamp, ...args)
 }
-function makeTTL(fx: Function, ttlMS: number) {
+function makeTTL(fx: Function & { displayName?: string }, ttlMS: number) {
   const expiry = Date.now() + ttlMS
   const fxName = fx.name || fx['displayName'] || 'Function'
 

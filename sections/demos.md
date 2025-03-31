@@ -89,7 +89,7 @@ Finds the closest existing property using Levenshtein distances 🤯
 
 # Mini observables
 
-```ts {all|8-13|9|10|4,11}{lines:true}
+```ts {all|7-12|8|9|4,10}{lines:true}
 type Subscribable = { $subscribe: (sub: Subscriber) => Subscribable }
 
 function makeObservable(obj: object) {
@@ -115,7 +115,7 @@ function makeObservable(obj: object) {
 
 # Mini observables
 
-```ts {7-12|8|9|4,10}{lines:true}
+```ts {6-11|7|8|4,9}{lines:true}
 type Subscribable = { $subscribe: (sub: Subscriber) => Subscribable }
 
 function makeObservable(obj: object) {
@@ -198,7 +198,7 @@ It's more powerful and performant than Vue 2's reactivity.  For instance, no cus
 # TTL Refs
 
 ```ts {all|6-12}{lines:true}
-function makeTTL(fx: Function, ttlMS: number) {
+function makeTTL(fx: Function & { displayName?: string }, ttlMS: number) {
   const expiry = Date.now() + ttlMS
   const fxName = fx.name || fx['displayName'] || 'Function'
 
