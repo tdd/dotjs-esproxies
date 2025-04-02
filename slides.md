@@ -51,6 +51,17 @@ src: ./sections/demos.md
 ---
 
 ---
+
+# Key takeaways
+
+- ES proxies **allow next-gen metaprogramming**
+- You can use them for DSL, transparent reactivity, effortless immutability… and so much more!
+- They're **fast**
+- They're **flexible**
+- They're **natively available everywhere** (which is cool because they can't be polyfilled)
+- 💫 **Go forth and make cool things!** 🪄
+
+---
 layout: cover
 background: /covers/mosi-knife--PVgDgKXgZA-unsplash.jpg
 ---
